@@ -12,7 +12,7 @@ class Plainbox{
 
         Plainbox(const ItemType& theItem);
 
-        void setItem(ItemType& theItem);
+         void setItem(ItemType& theItem);
 
         ItemType getItem();
 };
