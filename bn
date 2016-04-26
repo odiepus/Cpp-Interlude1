@@ -1,0 +1,14 @@
+#ifndef TOYBOX_H
+#define TOYBOX_H
+
+template<class ItemType>
+
+class Toybox{
+
+};
+
+
+
+
+
+#endif
